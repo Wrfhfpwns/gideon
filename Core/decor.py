@@ -16,6 +16,8 @@ menu = f"""
 chsystem = f"""
 {lre}[!]Choose Your System[!]{lye}
 [1] - Windows
+1
+2
 [2] - Linux/Termux{res}
 """
 
@@ -33,5 +35,7 @@ banner = f""" {lye}
 
 sher_menu = f"""{lye}
 [1] - Phone Information
+
 [2] - Car Information{res}
 """
+2
